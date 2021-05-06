@@ -1,0 +1,34 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this site",
+      "description": "Some additional details about the website",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-05-06T19:17:00-04:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Jamie Flynn",
+      "author": [],
+      "contents": "\r\nWelcome To My Website!\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-05-06T19:17:16-04:00"
+    },
+    {
+      "path": "Projects.html",
+      "title": "Projects",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Jamie Flynn",
+          "url": {}
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-05-06T19:17:31-04:00"
+    }
+  ],
+  "collections": []
+}

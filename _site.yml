@@ -1,0 +1,16 @@
+name: "."
+title: "Jamie Flynn"
+description: |
+  Jamie Flynn
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "Resume"
+      href: about.html
+    - text: "Projects"
+      href: projects.html
+    - icon: fab fa-github
+      href: https://github.com/jamieflynn22
+output: distill::distill_article
