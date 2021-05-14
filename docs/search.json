@@ -6,14 +6,21 @@
       "description": "Some additional details about the website",
       "author": [],
       "contents": "\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-05-06T19:17:00-04:00"
+      "last_modified": "2021-05-14T16:15:04-04:00"
     },
     {
       "path": "index.html",
       "title": "Jamie Flynn",
       "author": [],
       "contents": "\r\nWelcome To My Website!\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-05-06T19:17:16-04:00"
+      "last_modified": "2021-05-14T16:15:05-04:00"
+    },
+    {
+      "path": "postcard.html",
+      "title": "Jamie Flynn",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n          \r\n          Jamie Flynn\r\n          \r\n          \r\n          Home\r\n          Resume\r\n          Projects\r\n          \r\n          \r\n          \r\n          ☰\r\n          \r\n          \r\n      \r\n        \r\n          \r\n            Jamie Flynn\r\n          \r\n          \r\n            \r\n              I am currently senior at Oregon State University studying Natural Resources with a specialization in Natural Resource Education. I am currently working at Oregon State University as START Leader. I am a classically trained data scientist living in the San Francisco Bay Area. Currently I work on the Oculus team at Facebook. I love talking about baseball, true crime podcasts, and causal inference.\r\n            \r\n            \r\n              I am currently senior at Oregon State University studying Natural Resources with a specialization in Natural Resource Education. I am currently working at Oregon State University as START Leader. I am a classically trained data scientist living in the San Francisco Bay Area. Currently I work on the Oculus team at Facebook. I love talking about baseball, true crime podcasts, and causal inference.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2021-05-14T16:47:00-04:00"
     },
     {
       "path": "Projects.html",
@@ -27,7 +34,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-05-06T19:17:31-04:00"
+      "last_modified": "2021-05-14T16:15:07-04:00"
     }
   ],
   "collections": []

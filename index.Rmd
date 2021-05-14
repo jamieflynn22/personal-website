@@ -1,5 +1,15 @@
 ---
 title: "Jamie Flynn"
+image: "images/jamie.jpg"
+links:
+  - label: '`r fontawesome::fa("linkedin", height = "25px")`'
+    url: "https://www.linkedin.com/in/jamie-flynn-389a6347/"
+  - label: '`r fontawesome::fa("github", height = "25px")`'
+    url: "https://github.com/jamieflynn22"
+  - label: '`r fontawesome::fa("envelope", height = "25px")`'
+    url: "mailto:jamieflynn0822@gmail.com"
+output:
+  postcards::jolla
 site: distill::distill_website
 ---
 
@@ -13,4 +23,4 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/publish_website.html#github-pages
 
 ```
-Welcome To My Website!
+ I am currently senior at Oregon State University studying Natural Resources with a specialization in Natural Resource Education. I am currently working at Oregon State University as START Leader. 

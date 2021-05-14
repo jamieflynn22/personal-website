@@ -1,0 +1,17 @@
+---
+title: "Jamie Flynn"
+image: "images/jamie.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/jamie-flynn-389a6347/"
+  - label: GitHub
+    url: "https://github.com/jamieflynn22"
+  - label: Email
+    url: "mailto:jamieflynn0822@gmail.com"
+output:
+  postcards::jolla_blue
+---
+ I am currently senior at Oregon State University studying Natural Resources with a specialization in Natural Resource Education. I am currently working at Oregon State University as START Leader. 
+I am a classically trained data scientist living in the San Francisco Bay Area. 
+Currently I work on the Oculus team at Facebook. I love talking about baseball, 
+true crime podcasts, and causal inference.
