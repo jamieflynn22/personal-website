@@ -8,7 +8,7 @@ navbar:
     - text: "Home"
       href: index.html
     - text: "Resume"
-      href: resume.html
+      href: about.html
     - text: "Projects"
       href: projects.html
     - text: "Links"
