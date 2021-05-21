@@ -23,4 +23,4 @@ knitr::opts_chunk$set(echo = FALSE)
 # https://rstudio.github.io/distill/publish_website.html#github-pages
 
 ```
- I am currently senior at Oregon State University studying Natural Resources with a specialization in Natural Resource Education. I am currently working at Oregon State University as START Leader. 
+ I am a currently senior at Oregon State University studying Natural Resources with a specialization in Natural Resource Education. I am currently working at Oregon State University as START Leader. I am passionate about inspiring the next generation of children to take care of our planet. 

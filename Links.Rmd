@@ -1,0 +1,25 @@
+---
+title: "Links" 
+description:
+  Links to other websites 
+author:
+  - name: Jamie Flynn 
+    affiliation: Oregon State University 
+    affiliation_url: https://oregonstate.edu 
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+ [Google Sites](https://sites.google.com/oregonstate.edu/edtechfinalproject/home)
+
+
+
+
+
+
+
+
