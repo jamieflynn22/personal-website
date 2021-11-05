@@ -1,0 +1,49 @@
+---
+title: "Jamie Flynn"
+description: |
+  Natural Resource Education Student  
+  `r fontawesome::fa("home")`
+   2 Charles Court, Port Jeff Station, New York, 11776  
+  `r fontawesome::fa("phone")` (631)627-9966  
+  `r fontawesome::fa("envelope")` jamieflynn0822@gmail.com  
+  `r fontawesome::fa("linkedin")` https://www.linkedin.com/in/jamie-flynn-389a6347/   
+date: "`r Sys.Date()`"
+output: distill::distill_article
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## Education
+
+### Oregon State University [03/2022]{style="float:right"}
+B.S. Natural Resource Education
+
+### Suffolk County Community College [01/2013]{style="float:right"}
+A.A. Liberal Arts
+
+## Experience
+
+### START Leader -- Transfer Students Lead/ Oregon State University [04/2021 - 09/2021]{style="float:right"}
+
+-   Aided in the facilitation of OSU's new transfer student orientation program via Zoom.
+
+### Amazon Prime Shopper/ Amazon [09/2020 - Present]{style="float:right"}
+
+-   Grocery shop for Prime customers' orders within 2-hour delivery window and communicate with prime customers through shopping app.
+
+### Curriculum Development Intern/Save The Water/Virtual [05/2020 - 09/2020]{style="float:right"}
+
+-   Working with the Curriculum Development team, I learned how to create and develop lesson plans that were focused on global climate change issues. Additionally, I learned how to design these lesson plans on Google Docs, and Google Slides.
+
+### Summer Camp Counselor/The Florida Aquarium [06/2019 - 08/2019]{style="float:right"}
+-   Assisted up to 10 elementary school campers with classroom activities, assisted with monitoring up to 50 campers during morning care, afternoon free time and after care. Assisted campers with on-site aquarium activities and weekly off-site field trips.
+
+## Volunteering
+
+### Guest Engagement Ambassador/ Tampa Zoo [01/2020 - 03/2020]{style="float:right"}
+-   I educated and engaged with zoo guests at conservation stations around the zoo. I would answer guests’ questions and discuss a variety of conservation topics including the importance of saving manatees and red wolves.  
+
+### School Programs Docent/ The Florida Museum of Natural History [09/2018 - 05/2019]{style="float:right"}
+-   Led school group tours through exhibits and then facilitated classroom activities that were centered around the exhibit. Some of the museum topics that were discussed were Permian Monsters Exhibit and Butterflies and Moths.
