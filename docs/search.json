@@ -39,7 +39,7 @@
     {
       "path": "Projects.html",
       "title": "Projects",
-      "description": "A new article created using the Distill format.\n",
+      "description": "A space fore Jamie's current projects.\n",
       "author": [
         {
           "name": "Jamie Flynn",
@@ -47,8 +47,8 @@
         }
       ],
       "date": "`r Sys.Date()`",
-      "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
-      "last_modified": "2021-11-05T19:47:03-04:00"
+      "contents": "\r\nComing soon…\r\n\r\n\r\n\r\n",
+      "last_modified": "2021-11-05T19:50:42-04:00"
     },
     {
       "path": "test.html",
