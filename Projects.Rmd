@@ -16,6 +16,7 @@ knitr::opts_chunk$set(echo = FALSE)
 ```
 
 Coming soon...
+[Journal Article ](journal 1.htm)
 
 
 
