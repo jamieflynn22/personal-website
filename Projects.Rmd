@@ -18,6 +18,9 @@ knitr::opts_chunk$set(echo = FALSE)
 Coming soon...
 [Journal Article ](journal 1.htm)
 
+[Restoration Plan](Long Island Sound Restoration Plan - final.htm)
+
+
 
 
 
